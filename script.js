@@ -38,7 +38,7 @@ gsap.from(".l1",{
     scale:10,
     duration:2,
     ease: Expo.inOut,
-    // repeat:-1,
+     repeat:-1,
     stagger:2,
     opacity:0,
     
